@@ -1,0 +1,6 @@
+Model: svr-sigmoid
+Mean Squared Error: 50.676210730714004
+Mean Absolute Error: 5.75840644495673
+Root Mean Squared Error: 7.118722549075361
+R2: 0.44045055992415927
+Average Temperature Difference: 5.75840644495673

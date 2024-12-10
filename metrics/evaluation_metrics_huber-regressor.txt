@@ -1,0 +1,6 @@
+Model: huber-regressor
+Mean Squared Error: 0.9007041357501913
+Mean Absolute Error: 0.7140834168211108
+Root Mean Squared Error: 0.9490543376172891
+R2: 0.9900547320416055
+Average Temperature Difference: 0.7140834168211108

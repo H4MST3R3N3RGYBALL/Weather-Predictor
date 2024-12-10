@@ -1,0 +1,6 @@
+Model: random-forest
+Mean Squared Error: 0.002430293266353981
+Mean Absolute Error: 0.013063806380644903
+Root Mean Squared Error: 0.049298004689378463
+R2: 0.9999731655303978
+Average Temperature Difference: 0.013063806380644903

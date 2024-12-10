@@ -1,0 +1,6 @@
+Model: svr-poly
+Mean Squared Error: 2.6540192523152455
+Mean Absolute Error: 0.9293834125617964
+Root Mean Squared Error: 1.6291160954073363
+R2: 0.9706952243435315
+Average Temperature Difference: 0.9293834125617964

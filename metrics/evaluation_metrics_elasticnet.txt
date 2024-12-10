@@ -1,0 +1,6 @@
+Model: elasticnet
+Mean Squared Error: 0.9406733605261242
+Mean Absolute Error: 0.749469843543103
+Root Mean Squared Error: 0.9698831684930531
+R2: 0.9896134054897353
+Average Temperature Difference: 0.749469843543103

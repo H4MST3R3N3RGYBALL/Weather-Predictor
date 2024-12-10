@@ -1,0 +1,6 @@
+Model: ransac-regressor
+Mean Squared Error: 0.8690966794721906
+Mean Absolute Error: 0.7288860774041181
+Root Mean Squared Error: 0.9322535489190645
+R2: 0.9904037307967919
+Average Temperature Difference: 0.7288860774041181

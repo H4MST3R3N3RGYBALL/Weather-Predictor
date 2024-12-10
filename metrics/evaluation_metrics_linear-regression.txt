@@ -1,0 +1,6 @@
+Model: linear-regression
+Mean Squared Error: 0.8689666548505112
+Mean Absolute Error: 0.7288871588708092
+Root Mean Squared Error: 0.932183809583985
+R2: 0.9904051664843306
+Average Temperature Difference: 0.7288871588708092

@@ -1,0 +1,6 @@
+Model: sgd-regressor
+Mean Squared Error: 0.9807176603967855
+Mean Absolute Error: 0.7852733692576261
+Root Mean Squared Error: 0.9903119005630426
+R2: 0.989171249984267
+Average Temperature Difference: 0.7852733692576261

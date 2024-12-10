@@ -1,0 +1,6 @@
+Model: adaboost
+Mean Squared Error: 1.1614085832351966
+Mean Absolute Error: 0.8284428093416861
+Root Mean Squared Error: 1.0776866813852701
+R2: 0.9871761224235605
+Average Temperature Difference: 0.8284428093416861

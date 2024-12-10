@@ -1,0 +1,6 @@
+Model: mlp-regressor
+Mean Squared Error: 0.473294204993557
+Mean Absolute Error: 0.5883489538561248
+Root Mean Squared Error: 0.6879638108167878
+R2: 0.9947740467652059
+Average Temperature Difference: 0.5883489538561248

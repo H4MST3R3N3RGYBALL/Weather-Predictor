@@ -1,0 +1,6 @@
+Model: lasso
+Mean Squared Error: 0.9562113940937004
+Mean Absolute Error: 0.7572045342944671
+Root Mean Squared Error: 0.9778606209954976
+R2: 0.9894418398210073
+Average Temperature Difference: 0.7572045342944671

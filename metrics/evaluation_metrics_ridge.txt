@@ -1,0 +1,6 @@
+Model: ridge
+Mean Squared Error: 0.8689790035052023
+Mean Absolute Error: 0.7289246343316611
+Root Mean Squared Error: 0.9321904330689101
+R2: 0.9904050301346959
+Average Temperature Difference: 0.7289246343316611

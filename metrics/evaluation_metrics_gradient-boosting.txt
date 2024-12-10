@@ -1,0 +1,6 @@
+Model: gradient-boosting
+Mean Squared Error: 0.04562916599794917
+Mean Absolute Error: 0.1414814784379579
+Root Mean Squared Error: 0.21360984527392263
+R2: 0.9994961783069979
+Average Temperature Difference: 0.1414814784379579

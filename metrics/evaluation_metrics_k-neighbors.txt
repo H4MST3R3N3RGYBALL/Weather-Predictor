@@ -1,0 +1,6 @@
+Model: k-neighbors
+Mean Squared Error: 1.9973619537288227
+Mean Absolute Error: 1.0695611655406376
+Root Mean Squared Error: 1.4132805644063824
+R2: 0.9779458103373863
+Average Temperature Difference: 1.0695611655406376

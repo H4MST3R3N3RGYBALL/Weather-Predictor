@@ -1,0 +1,6 @@
+Model: svr-rbf
+Mean Squared Error: 2.3866620370201366
+Mean Absolute Error: 1.0215921260197793
+Root Mean Squared Error: 1.5448825317868464
+R2: 0.973647291555375
+Average Temperature Difference: 1.0215921260197793

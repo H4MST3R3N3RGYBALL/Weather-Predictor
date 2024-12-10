@@ -1,0 +1,6 @@
+Model: nn
+Mean Squared Error: 0.025956882163882256
+Mean Absolute Error: 0.13266225159168243
+Root Mean Squared Error: 0.16111139953136444
+R2: 0.9997155070304871
+Average Temperature Difference: 0.13266225159168243

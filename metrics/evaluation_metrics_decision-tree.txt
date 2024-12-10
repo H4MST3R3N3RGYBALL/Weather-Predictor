@@ -1,0 +1,6 @@
+Model: decision-tree
+Mean Squared Error: 0.006970433663494331
+Mean Absolute Error: 0.023509811714159064
+Root Mean Squared Error: 0.08348912302506435
+R2: 0.9999230348481614
+Average Temperature Difference: 0.023509811714159064
